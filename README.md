@@ -1,23 +1,266 @@
-<h1 align="center">Hi 👋, I'm Smayan Kumar Panda</h1>
-<h3 align="center">A passionate Full-Stack Software Developer</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smayan-kumar-panda" alt="smayan-kumar-panda" /></a> </p>
+# Hi there! I'm **Smayan Kumar Panda** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-- 🌱 I’m currently learning **React and Next JS**
+### 🚀 Full-Stack Software Developer | 📊 Data Analytics Enthusiast | ☁️ AWS Certified
 
-- 👯 I’m looking to collaborate on **Web-Development Projects**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Data+Analytics+Enthusiast;MERN+Stack+Specialist;AWS+Certified+Professional;Problem+Solver+%26+Innovator;Building+Scalable+Solutions" alt="Typing SVG" />
 
-- 💬 Ask me about **react and nodejs**
-
-- 📫 How to reach me **pandasmayan@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smayan-kumar-panda-a214a3251)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smayan-kumar-panda)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandasmayan@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smayan-kumar-panda&show_icons=true&locale=en&layout=compact" alt="smayan-kumar-panda" /></p>
+![Profile Views](https://komarev.com/ghpv/?username=smayan-kumar-panda&style=for-the-badge&color=brightgreen)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smayan-kumar-panda&show_icons=true&locale=en" alt="smayan-kumar-panda" /></p>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 **Professional Summary**
+
+<table>
+<tr>
+<td width="60%">
+
+🎓 **Final-Year B.Tech Student** at **KIIT University**  
+📈 **Academic Excellence:** GPA 8.56/10.0 | **Graduation:** June 2026  
+💻 **Full-Stack Developer** with expertise in **MERN Stack**  
+📊 **Data Analytics Enthusiast** skilled in Python-based analysis  
+☁️ **AWS Certified Professional** in Cloud Architecture  
+🐳 **DevOps Practitioner** experienced with Docker & Cloud Deployment  
+
+</td>
+<td width="40%">
+
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="100">
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ **Technical Arsenal**
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F75C7E&center=true&vCenter=true&width=435&lines=Crafting+Digital+Experiences;Building+Scalable+Solutions;Data-Driven+Insights" alt="Skills Typing SVG" />
+
+### **Core Programming Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+### **Frontend Mastery**
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-FF6B35?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+### **Backend Excellence**
+<p>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" />
+</p>
+
+### **Database Systems**
+<p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### **Cloud & DevOps**
+<p>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### **Development Tools**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 **Professional Certifications**
+
+<div align="center">
+
+| 🏅 **Certification** | 🏢 **Provider** | ⏱️ **Duration** | 🔗 **Credential** |
+|:---:|:---:|:---:|:---:|
+| **AWS Cloud Foundations** | AWS Academy | 20 Hours | [🔗 Verify](https://www.credly.com/go/24m4OAHT) |
+| **AWS Cloud Architecting** | AWS Academy | 60 Hours | [🔗 Verify](https://www.credly.com/go/hLB5f5pc) |
+
+**Total Certification Hours:** `80+ Hours` | **Completion Status:** `✅ Active & Verified`
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 **Featured Projects**
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=36BCF7&center=true&vCenter=true&width=435&lines=Innovation+Through+Code;Real-World+Solutions" alt="Projects Typing SVG" />
+
+</div>
+
+### 🧳 **Virtual Tour Guide Application**
+**`React.js` `Tailwind CSS` `Firebase` `AI Integration`**
+
+<details>
+<summary><b>🔍 Project Deep Dive</b></summary>
+
+**🎯 Challenge Solved:** Real-world travel planning inefficiencies  
+**🤖 AI Features:** Personalized travel itineraries & smart hotel recommendations  
+**📱 Key Focus:** Responsive design, scalability, and enhanced UX  
+**💡 Innovation:** Budget-based recommendations with group size optimization  
+
+**Technical Highlights:**
+- ⚡ Lightning-fast React.js frontend with Tailwind CSS
+- 🔥 Firebase backend for real-time data management
+- 🤖 AI-driven recommendation engine
+- 📱 Mobile-first responsive design
+- 🛡️ Secure user authentication system
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200">
+
+</details>
+
+---
+
+### 🛒 **E-commerce Platform (MERN Stack)**
+**`MongoDB` `Express.js` `React.js` `Node.js` `Payment Gateway`**
+
+<details>
+<summary><b>🔍 Project Deep Dive</b></summary>
+
+**🎯 Full-Scale Solution:** Complete e-commerce ecosystem  
+**🔐 Security:** Robust user authentication & authorization  
+**🎨 Features:** Advanced search, cart system, order tracking  
+**💳 Payment:** Integrated payment gateway functionality  
+**📊 Analytics:** Personalized feedback system for continuous improvement  
+
+**Technical Highlights:**
+- 🏗️ Scalable MERN stack architecture
+- 🔍 Advanced product search & categorization
+- 🛒 Intelligent cart management system
+- 📦 Real-time order tracking
+- 💳 Secure payment processing
+- 📱 Fully responsive design
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 **GitHub Analytics Dashboard**
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Code+%26+Commit+Analytics;Performance+Metrics" alt="Analytics Typing SVG" />
+
+### **📈 Performance Metrics**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smayan-kumar-panda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+
+### **💻 Language Distribution**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smayan-kumar-panda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+### **🔥 Contribution Streak**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smayan-kumar-panda&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&sideNums=58A6FF)
+
+### **🏆 Achievement Gallery**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=smayan-kumar-panda&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100">
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 **Current Focus & Goals**
+
+<table>
+<tr>
+<td width="50%">
+
+### **🔥 Currently Working On**
+- 🤖 **AI-Driven Travel Applications**
+- 🛒 **Scalable E-commerce Solutions**
+- ☁️ **Advanced Cloud Architecture**
+- 🐳 **Container Orchestration**
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200">
+
+</td>
+<td width="50%">
+
+### **🌱 Learning & Growing**
+- 📚 **Advanced Data Structures & Algorithms**
+- 🚀 **Next.js & Modern React Patterns**
+- ☁️ **Microservices Architecture**
+- 🔬 **Machine Learning Integration**
+
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200">
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=36BCF7&center=true&vCenter=true&width=435&lines=Open+to+New+Opportunities;Let's+Build+Something+Amazing!" alt="Connect Typing SVG" />
+
+### **💼 Open to Opportunities**
+
+
+### **📬 Get In Touch**
+
+<a href="https://www.linkedin.com/in/smayan-kumar-panda-a214a3251" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+</a>
+<a href="mailto:pandasmayan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+</a>
+
+### **💡 Fun Fact**
+*"I believe in writing code that not only works but tells a story of efficiency, scalability, and innovation!"* <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" height="40" />
+  <b>Thanks for visiting my profile!</b>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" height="40" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Keep%20Coding!&fontSize=40&fontColor=ffffff&animation=twinkling" />
+
+</div>
