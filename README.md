@@ -403,4 +403,3 @@ Technical Challenges
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep%20Coding%20%26%20Creating!&fontSize=32&fontColor=ffffff&animation=twinkling" />
