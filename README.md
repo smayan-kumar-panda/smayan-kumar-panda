@@ -234,37 +234,6 @@ CodeCrack is my most comprehensive and ambitious project - a full-scale coding e
 
 ---
 
-### 🛒 **Enterprise E-Commerce Platform (MERN Stack)**
-**`MongoDB` `Express.js` `React.js` `Node.js`**
-
-<table>
-<tr>
-<td width="70%">
-
-**🎯 Complete E-Commerce Ecosystem:** Comprehensive e-commerce solution featuring user authentication, product categorization, advanced search capabilities, intelligent cart system, real-time order tracking, and secure payment gateway integration.
-
-**🚀 Advanced Features:**
-- 🔐 **Robust User Authentication** with secure session management
-- 🔍 **Advanced Search & Filtering** for enhanced product discovery
-- 🛒 **Intelligent Cart Management** with real-time inventory updates
-- 📦 **Real-Time Order Tracking** with automated notifications
-- 💳 **Secure Payment Processing** with multiple gateway options
-
-**💻 Architecture:** Scalable MERN stack with responsive design principles
-**🔐 Security:** Enterprise-grade authentication and payment security
-
-</td>
-<td width="30%">
-
-<div align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150">
-</div>
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 **GitHub Analytics Dashboard**
 
